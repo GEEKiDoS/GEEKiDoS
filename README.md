@@ -9,3 +9,6 @@
 
 ## Steam ID ```GEEKiDoS```
 - (1 VAC record on MW2 due to play shit with cheat engine)
+
+## Status
+![](https://github-readme-stats.vercel.app/api?username=GEEKiDoS) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GEEKiDoS)
