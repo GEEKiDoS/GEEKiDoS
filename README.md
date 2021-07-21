@@ -7,6 +7,10 @@
 - CoD series
 - Source engine games
 
+# E-Mail
+- geek_ds@foxmail.com
+- Feel free to email me if you have any issue
+
 ## Steam ID ```GEEKiDoS```
 - (1 VAC record on MW2 due to play shit with cheat engine)
 
